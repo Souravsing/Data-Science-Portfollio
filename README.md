@@ -19,11 +19,13 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Natural Language Processing
 
-	- [3-way Sentiment Analysis for Tweets](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Natural%20Language%20Processing/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+     - [3-way Sentiment Analysis for Tweets](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Natural%20Language%20Processing/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
 
-	- [Cross language Information Retrieval](https://github.com/Souravsing/Data-Science Portfollio/blob/main/Natural%20Language%20Processing/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
-        - [Amazon Fine Food Reviews Analysis](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Natural%20Language%20Processing/Amazon%20Fine%20Food%20Reviews%20Analysis.ipynb):
-Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
+      
+     - [Cross language Information Retrieval](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Natural%20Language%20Processing/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a queryin German, searches text documents written in English. 
+        
+     - [Amazon Fine Food Reviews Analysis](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Natural%20Language%20Processing/Amazon%20Fine%20Food%20Reviews%20Analysis.ipynb): Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
+	
 	_Tools: NLTK, scikit_
 
 - ### Data Analysis and Visualisation
