@@ -11,20 +11,19 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Machine Learning
 
-	- [Predicting Boston Housing Prices](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
-	- [Unsupervised Learning: Creating Customer Segments](https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
-	- [Reinforcement Learning: Training a Smartcab to Drive](https://github.com/sajal2692/Training-a-Smartcab-to-Drive): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
-	
+	- [Predicting Boston Housing Prices](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Machine%20Learning/boston_housing.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Supervised Learning: Finding Donors for CharityML](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Machine%20Learning/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
+	- [Unsupervised Learning: Creating Customer Segments](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Machine%20Learning/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib.
 
 - ### Natural Language Processing
 
-	- [3-way Sentiment Analysis for Tweets](https://github.com/sajal2692/data-science-portfolio/blob/master/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+	- [3-way Sentiment Analysis for Tweets](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Natural%20Language%20Processing/3-Way%20Sentiment%20Analysis%20for%20Tweets.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
 
-	- [Cross language Information Retrieval](https://github.com/sajal2692/data-science-portfolio/blob/master/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
-
+	- [Cross language Information Retrieval](https://github.com/Souravsing/Data-Science Portfollio/blob/main/Natural%20Language%20Processing/Cross%20Language%20Information%20Retrieval.ipynb): Cross language information retrieval system (CLIR) which, given a query in German, searches text documents written in English.
+        - [Amazon Fine Food Reviews Analysis](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/Natural%20Language%20Processing/Amazon%20Fine%20Food%20Reviews%20Analysis.ipynb):
+Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
 	_Tools: NLTK, scikit_
 
 - ### Data Analysis and Visualisation
@@ -42,9 +41,10 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Micro Projects: 
 
 	- __Python__
-		- [ML with Logistic Regression](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+		- [ML with Logistic Regression](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/ML-Micro%20Project/Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
 		- [ML with K Nearest Neighbours](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/ML-Micro%20Project/ML%20with%20K%20Nearest%20Neighbors.ipynb): Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
-		- [ML with Decision Trees and Random Forests](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
+		- [ML with Decision Trees and Random Forests](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/ML-Micro%20Project/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
 		- [Movie Recommendations using Recommender Systems](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Recommender%20Systems%20with%20Python.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
+		- [Machine Learning with Support Vector Machines and Parameter Tuning](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/ML-Micro%20Project/ML%20with%20Support%20Vector%20Machines.ipynb):micro-project, we'll work on classifying flowers from the famous Iris data set into different categories.
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at souravkumar95@outlook.com 
