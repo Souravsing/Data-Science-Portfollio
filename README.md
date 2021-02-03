@@ -48,4 +48,4 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [ML with Decision Trees and Random Forests](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/ML-Micro%20Project/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
 		 - [Machine Learning with Support Vector Machines and Parameter Tuning](https://github.com/Souravsing/Data-Science-Portfollio/blob/main/ML-Micro%20Project/ML%20with%20Support%20Vector%20Machines.ipynb):micro-project, we'll work on classifying flowers from the famous Iris data set into different categories.
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at souravkumar95@outlook.com 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at sanidsourav76@gmail.com 
